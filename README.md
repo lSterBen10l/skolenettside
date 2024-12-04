@@ -21,3 +21,6 @@ HTML, CSS, JavaScript
 ## Oppsett
 
 1. Åpne index.html i nettleseren din
+2. Login:
+   Brukernavn: admin
+   Passord: password123
